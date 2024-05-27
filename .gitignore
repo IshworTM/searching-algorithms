@@ -1,4 +1,4 @@
 !.gitignore
 
-DSA/src/Searching/binarySearch
-DSA/src/Searching/linearSearch
+/binarySearch
+/linearSearch
